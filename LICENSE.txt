@@ -1,0 +1,5 @@
+Licenses of the star-bnn sources:
+- C files have the latest GNU GPL license
+- VHDL files have the latest GNU GPL license
+- python files have BSD3 license
+

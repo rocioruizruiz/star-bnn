@@ -1,0 +1,12 @@
+NET "clk" LOC = "C9";
+NET "rst" LOC = "L13";
+
+#leds
+NET "R[0]" LOC="D4";
+NET "R[1]" LOC="C3";
+NET "R[2]" LOC="D6";
+#NET "R[3]" LOC="E6";
+#NET "R[4]" LOC="D13";
+#NET "R[5]" LOC="A7";
+#NET "R[6]" LOC="G9";
+#NET "R[7]" LOC="A8";

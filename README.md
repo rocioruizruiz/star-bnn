@@ -28,6 +28,6 @@ These values must be identical:
 - number of neurons per hidden layer
 - number of neural network outputs
 <br>
-You can find my email by using the following command:<br>
-git log -1<br>
+
 Please provide feedback!<br>
+laurentiu [dot] duca [at] gmail [dot] com
